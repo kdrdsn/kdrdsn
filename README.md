@@ -1,7 +1,7 @@
 - 👋 Hi, I’m ✨ @kdrdsn ✨
 
 - 🌱 I’m currently learning ... 💞️ Next.js - 👀
-- 📫 How to reach me ... https://github.com/kdrdsn
+- 📫 Stay up w me here ... https://github.com/kdrdsn
 
 <!---
 kdrdsn/kdrdsn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
