@@ -1,6 +1,4 @@
 - 👋 Hi, I’m ✨ @kdrdsn ✨
-
-- 🌱 I’m currently learning ... 💞️ Next.js - 👀
 - 📫 Stay up w me here ... https://github.com/kdrdsn
 
 <!---
